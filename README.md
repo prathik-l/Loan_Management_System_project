@@ -1,4 +1,4 @@
-### Loan_Management_System_project
+# Loan_Management_System_project
 
 Data set
 1. customer income status
@@ -7,7 +7,7 @@ Data set
 4. country state
 5. region info
 
-Sheet 1
+##Sheet 1
 •	Import table from sheet 1- customer income status
 •	set customer criteria based on applicant income
 
@@ -30,7 +30,9 @@ New field creation based on interest
 •	Create all the above fields as a table 
 •	Table name - customer interest analysis
 (create this into a new table and connect with sheet 2 (loan status) bring the output)
-Sheet 2 - loan status
+
+
+##Sheet 2 - loan status
 •	Create row level trigger for loan amt 
 Criteria
 •	Loan amt null = loan still processing
@@ -48,7 +50,8 @@ Sheet 3 - customer info
 *Import the table
 *Update gender and age based on customer id 
 
-Sheet 4 and 5- country state and region
+##Sheet 4 and 5- country state and region
+
 *Import the table 
 *Join all the 5 tables without repeating the fields - output 1 *find the mismatch details using joins - output 2
 Filtering information using inner join
